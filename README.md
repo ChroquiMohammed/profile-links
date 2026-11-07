@@ -1,23 +1,25 @@
 # Profile Links
 
-A small HTML & CSS practice project: a profile card for Henry, with links to GitHub, SoundCloud, Instagram, Facebook and Email.
+## Preview
 
-Repository: `profile-links`
+![Profile Card Preview](./Preveiw_Profile_link_page.jpg)
 
-## What I practised
-- Flexbox layout with two columns
-- A circular profile picture
-- Link cards with icons and a hover effect
+## About
 
-## Project structure
-```
-index.html
-public/
-  css/index.css
-  images/pfp.jpg
-```
+A profile / link-in-bio page built with HTML & CSS.
 
-## How to run it
-Open `index.html` in a browser.
+Practice project.
 
-The links use `#` for now, so they do not go anywhere yet. Replace `#` with the real profile URLs later.
+## What it includes
+
+- Circular profile photo and bio on the left: Henry, 22 years old
+- Link buttons on the right: GitHub, SoundCloud, Instagram, Facebook, Email
+
+## Tech
+
+- HTML
+- CSS (Flexbox)
+
+## How to open
+
+Open `index.html` in your browser.
